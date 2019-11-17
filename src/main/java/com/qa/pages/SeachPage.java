@@ -6,4 +6,8 @@ public class SeachPage {
 		System.out.println("Toan Le seaching page");
 	}
 
+	public void seachName() {
+		System.out.println("TOan 2312");
+	}
+	
 }
